@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from  "./About.module.css";
 
-import aboutImg from "../../assets/about.png";
+import aboutImg from "../../assets/about1.png";
 import cursorImg from "../../assets/cursor1.png";
 import serverImg from "../../assets/server.png";
 export const About = () => {
