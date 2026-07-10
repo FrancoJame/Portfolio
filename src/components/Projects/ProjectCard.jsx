@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./ProjectCard.module.css";
 import projectImg from "../../assets/project1.PNG";
 import projectImg1 from "../../assets/project2.PNG";
-import projectImg2 from "../../assets/project.PNG";
+import projectImg2 from "../../assets/project3.png";
 
 
 
