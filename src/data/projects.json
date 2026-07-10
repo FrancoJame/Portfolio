@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projectImage",
+        "description": "This is a project made to learn Django FrameWork",
+        "skills": ["Django", "JavaScript", "HTML", "CSS"],
+        "demo": "https://dreamhouse-ug.vercel.app/",
+        "source": "https://github.com/FrancoJame/rental"
+    },
+
+    {
+        "title": "Project B",
+        "imageSrc": "projectImage1",
+        "description": "This is a project made to learn HTML, CSS & Javascript",
+        "skills": [ "JavaScript", "HTML", "CSS"],
+        "demo": "https://mr-site-xi.vercel.app/",
+        "source": "https://github.com/FrancoJame/MR-Site"
+    },
+
+    {
+        "title": "Project C",
+        "imageSrc": "projectImage2",
+        "description": "This is a project made to learn React FrameWork",
+        "skills": ["Django", "JavaScript", "HTML", "CSS"],
+        "demo": "https://dreamhouse-ug.vercel.app/",
+        "source": "https://github.com/FrancoJame/rental"
+    }
+]

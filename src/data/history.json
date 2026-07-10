@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Intern",
+        "orginisation": "Code Of Hope",
+        "startDate": "May, 2026",
+        "endDate": "present",
+        "experience": ["worked on models, views and APIs"],
+        "imagesrc": "CODE"
+    },
+    {
+        "role": "Intern",
+        "orginisation": "STRATCOM",
+        "startDate": "April, 2026",
+        "endDate": "present",
+        "experience": ["Worked on Routing protocols, ACLs and other basic configurations  on switches and Router "],
+        "imagesrc": "STRATCOM"
+    }
+]
